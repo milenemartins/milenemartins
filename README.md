@@ -8,7 +8,7 @@ Podem me chamar de Mi! Estou finalizando a faculdade de ADS pela UNIBTA. Tenho e
 ### ⏰ Minha experiência Profissional:
 Python, Django e Banco de Dados para desenvolvimento Backend de Aplicações.
 
-### 📚 Minha área de interesse e estudos:
+### 📚 Minhas áreas de interesse e estudos:
 Ciências de Dados <p>
 Inteligência Artificial <p>
 Python
