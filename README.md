@@ -6,7 +6,7 @@ Podem me chamar de Mi! Estou finalizando a faculdade de ADS pela UNIBTA. Tenho e
 ![cat5](https://github.com/milenemartins/milenemartins/assets/61763972/a056c9d1-b8f4-4bd6-b869-e970e03f63c1)
 
 ### ⏰ Minha experiência Profissional:
-Python, Django e Banco de Dados para desenvolvimento Backend de Aplicações.
+Python, Django e Banco de Dados para desenvolvimento Backend de Aplicações
 
 ### 📚 Minhas áreas de interesse e estudos:
 Ciências de Dados <p>
