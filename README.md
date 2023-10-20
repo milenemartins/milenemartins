@@ -23,7 +23,8 @@ No momento estou buscando conhecimentos na área de Dados, para uma possível tr
 ### > Áreas de interesse e estudos:
 Ciência de Dados <p>
 Inteligência Artificial <p>
-Python
+Python <p>
+Desenvolvimento de APIs
 
 ### > Certificados:
 Bootcamp Python <p>
