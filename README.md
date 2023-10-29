@@ -27,10 +27,10 @@ Python <p>
 Desenvolvimento de APIs
 
 ### > Certificados:
-Bootcamp Python <p>
-Bootcamp Data Science com Python <p>
-Amazon Web Services <p>
-Análise de Dados com Inteligência Artifical
+Bootcamp Python - Gama Academy <p>
+Bootcamp Data Science com Python - Santander Universidades <p>
+Amazon Web Services - DIO <p>
+Análise de Dados com Inteligência Artifical - Alura
 
 
 
