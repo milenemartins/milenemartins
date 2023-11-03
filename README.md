@@ -1,7 +1,7 @@
 ### Bem Vindos! 😸
 
-Me chamo Milene, mas podem me chamar de Mi! <p>
-Ultimo Semestre de ADS pela UNIBTA, <p>
+Me chamo Milene, mas podem me chamar de <b>Mi</b>! <p>
+Ultimo Semestre de ADS pela UNIBTA. <p>
 Experiência profissional em Desenvolvimento Web com Python. <p>
 No momento estou buscando conhecimentos na área de Dados, para uma possível transição de carreira. 🎲+🐍=❤
 
