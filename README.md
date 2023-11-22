@@ -25,7 +25,7 @@ No momento estou buscando conhecimentos na área de Dados, para uma possível tr
 Ciência de Dados <p>
 Inteligência Artificial <p>
 Python <p>
-Desenvolvimento de APIs
+Desenvolvimento Backend
 
 ### > Certificados:
 Bootcamp Python - Gama Academy <p>
