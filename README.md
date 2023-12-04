@@ -22,9 +22,9 @@ No momento estou buscando conhecimentos na área de Dados, para uma possível tr
 <p>
 
 ### > Áreas de interesse e estudos:
-Ciência de Dados <p>
-Inteligência Artificial <p>
 Python <p>
+Dados <p>
+Inteligência Artificial <p>
 Desenvolvimento Backend
 
 ### > Certificados:
