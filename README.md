@@ -25,7 +25,7 @@ No momento estou buscando conhecimentos na área de Dados e IA, para uma possív
 Python <p>
 Dados <p>
 Inteligência Artificial <p>
-Desenvolvimento Backend
+Desenvolvimento Fullstack
 
 ### > Certificados:
 Bootcamp Python - Gama Academy <p>
