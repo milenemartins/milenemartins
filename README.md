@@ -5,8 +5,6 @@ Ultimo Semestre de ADS pela UNIBTA. <p>
 Experiência profissional em Desenvolvimento Web com Python. <p>
 No momento estou buscando conhecimentos na área de Dados e IA, para uma possível transição de carreira. 🎲+🐍=❤
 
-![cat5](https://github.com/milenemartins/milenemartins/assets/61763972/a056c9d1-b8f4-4bd6-b869-e970e03f63c1)
-
 ### > Experiência Profissional:
 
 <div>
@@ -24,8 +22,7 @@ No momento estou buscando conhecimentos na área de Dados e IA, para uma possív
 ### > Áreas de interesse e estudos:
 Python <p>
 Dados <p>
-Inteligência Artificial <p>
-Desenvolvimento Fullstack
+Inteligência Artificial
 
 ### > Certificados:
 Bootcamp Python - Gama Academy <p>
