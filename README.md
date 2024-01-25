@@ -1,40 +1,39 @@
-### Hi guys! 😸
+## Hi guys 👋 I'm Milene!
 
-Me chamo Milene, mas podem me chamar de <b>Mi</b>! <p>
-Ultimo Semestre de ADS pela UNIBTA. <p>
-Experiência profissional em Desenvolvimento Web com Python. <p>
-No momento estou buscando conhecimentos na área de Dados e IA, para uma possível transição de carreira. 🎲+🐍=❤
+print("Engenheira de Software apaixonada por desafios, mergulhando no universo da Inteligência Artificial e Ciência de Dados.")
 
-### > Experiência Profissional:
+##
 
-<div>
-  <img align="center" alt="milene-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="milene-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="milene-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="milene-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="milene-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="milene-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="milene-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-</div
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=sql)
+![GCP](https://img.shields.io/badge/-GCP-000000?style=flat-square&logo=google-cloud)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code)<p>
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000000?style=flat-square&logo=elasticsearch)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=gitlab)<p>
 
-<p>
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Redes sociais
 
-### > Áreas de interesse e estudos:
-Python <p>
-Dados <p>
-Inteligência Artificial
-
-### > Certificados:
-Bootcamp Python - Gama Academy <p>
-Bootcamp Data Science com Python - Santander Universidades <p>
-Amazon Web Services - DIO <p>
-Análise de Dados com Inteligência Artifical - Alura
-
+<a href="mailto:milene_martins@outlook.com">
+  <img alt="Outlook" src="https://img.shields.io/badge/-milene_martins@outlook.com-000000?style=flat-square&logo=microsoft-outlook&logoColor=white">
+</a>
+<a href="https://www.instagram.com/techmi.martins/">
+  <img alt="Instagram" src="https://img.shields.io/badge/-techmi.martins-000000?style=flat-square&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/milene-almeida-cordeiro-martins/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-Milene Martins-000000?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
 
-### > Para obter mais informações sobre mim, é só acessar os links abaixo:
-<div> 
-  <a href="https://www.linkedin.com/in/milene-almeida-cordeiro-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/mimartins.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:milene_martins@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
-</div>
+
+
+
