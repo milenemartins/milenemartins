@@ -1,8 +1,7 @@
 ## Hi guys 👋 I'm Milene!
 
-print("Engenheira de Software apaixonada por desafios, mergulhando no universo da Inteligência Artificial e Ciência de Dados.")
+ __print("Engenheira de Software apaixonada por desafios, mergulhando no universo da Inteligência Artificial e Ciência de Dados.")__
 
-##
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django)
@@ -21,7 +20,7 @@ print("Engenheira de Software apaixonada por desafios, mergulhando no universo d
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=gitlab)<p>
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Redes sociais
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Meus contatos
 
 <a href="mailto:milene_martins@outlook.com">
   <img alt="Outlook" src="https://img.shields.io/badge/-milene_martins@outlook.com-000000?style=flat-square&logo=microsoft-outlook&logoColor=white">
