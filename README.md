@@ -1,6 +1,6 @@
 ## Hi guys 👋 I'm Milene!
 
- __print("Engenheira de Software apaixonada por desafios, mergulhando no universo da Inteligência Artificial e Ciência de Dados.")__
+ __print("Engenheira de Software apaixonada por desafios, mergulhando no universo da Inteligência Artificial e Ciência de Dados")__
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
