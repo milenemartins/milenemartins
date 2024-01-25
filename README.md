@@ -21,7 +21,6 @@ __print("Engenheira de Software apaixonada por desafios, mergulhando no universo
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=gitlab)<p>
 
-#
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Meus contatos
 
