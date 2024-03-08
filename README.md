@@ -27,7 +27,7 @@ __print("Engenheira de Software apaixonada por desafios, mergulhando no universo
 <a href="mailto:milene_martins@outlook.com">
   <img alt="Outlook" src="https://img.shields.io/badge/-milene_martins@outlook.com-000000?style=flat-square&logo=microsoft-outlook&logoColor=white">
 </a>
-<a href="https://www.instagram.com/techmi.martins/">
+<a href="https://www.instagram.com/mimartins.tech/">
   <img alt="Instagram" src="https://img.shields.io/badge/-techmi.martins-000000?style=flat-square&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/milene-almeida-cordeiro-martins/">
