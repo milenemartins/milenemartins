@@ -1,7 +1,7 @@
 ## Hi guys 👋 I'm Milene!
 
-__print("Engenheira de Software apaixonada por desafios, mergulhando no universo da Inteligência Artificial e Ciência de Dados")__
-
+Trabalho atualmente como Engenheira de IA Generativa, criando e integrando modelos LLM para diversas aplicações.<p>
+Também faço uso da Ciência e Engenharia de Dados para enriquecer minhas soluções de IA.
 #
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
