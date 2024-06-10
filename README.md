@@ -12,7 +12,7 @@ Profissional da área de Inteligência Artificial (IA) com foco em desenvolvimen
 - Desenvolvedora GPT. <p>
 
 Voluntária nas comunidades **PyLadies [python]** e **Data Girls [IA e Dados]**.<p>
-Meu objetivo é promover a inclusão de gênero e criar um ambiente mais diversificado e acolhedor para mulheres na área de tecnologia.
+Meu objetivo é promover a inclusão de gênero e criar um ambiente mais acolhedor para mulheres na área de tecnologia.
  # 
  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
