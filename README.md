@@ -11,7 +11,8 @@ Profissional da área de Inteligência Artificial (IA) com foco em desenvolvimen
 - Engenharia de Prompt. <p>
 - Desenvolvedora GPT. <p>
 
-Voluntária nas comunidades **PyLadies [python]** e **Data Girls [IA e Dados]**.
+Voluntária nas comunidades **PyLadies [python]** e **Data Girls [IA e Dados]**.<p>
+Meu objetivo é promover a inclusão de gênero e criar um ambiente mais diversificado e acolhedor para mulheres na área de tecnologia.
  # 
  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
