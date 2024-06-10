@@ -13,6 +13,7 @@ Profissional da área de Inteligência Artificial (IA) com foco em desenvolvimen
 
 Voluntária nas comunidades **PyLadies [python]** e **Data Girls [IA e Dados]**.<p>
 Meu objetivo é promover a inclusão de gênero e criar um ambiente mais acolhedor para mulheres na área de tecnologia.
+
  # 
  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -38,5 +39,7 @@ Meu objetivo é promover a inclusão de gênero e criar um ambiente mais acolhed
   <img alt="Instagram" src="https://img.shields.io/badge/-mimartins.tech-000000?style=flat-square&logo=instagram&logoColor=white">
 <a href="https://www.linkedin.com/in/milene-almeida-cordeiro-martins/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Milene Martins-000000?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
+</a> <p>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenemartins&layout=compact&theme=dark)
+<!--![Milene GitHub stats](https://github-readme-stats.vercel.app/api?username=milenemartins&rank_icon=github&theme=dark)-->
