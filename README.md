@@ -1,6 +1,6 @@
 ## Hi guys 👋 I'm Milene!
 
-_print("Engenheira de Inteligência Artificial")_ <p>
+_print("Engenheira de Inteligência Artificial e Dados")_ <p>
 Profissional da área de Inteligência Artificial com foco em desenvolvimento IA Generativa.
 
 #
@@ -35,7 +35,7 @@ Meu objetivo é promover a inclusão de gênero e criar um ambiente mais acolhed
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Meus contatos
 
 <a href="mailto:milene_martins@outlook.com">
-  <img alt="Outlook" src="https://img.shields.io/badge/-milene_martins@boutlook.com.br-000000?style=flat-square&logo=microsoft-outlook&logoColor=white">
+  <img alt="Outlook" src="https://img.shields.io/badge/-milene_martins@outlook.com-000000?style=flat-square&logo=microsoft-outlook&logoColor=white">
 <a href="https://www.instagram.com/techmi.martins/">
   <img alt="Instagram" src="https://img.shields.io/badge/-mimartins.ia-000000?style=flat-square&logo=instagram&logoColor=white">
 <a href="https://www.linkedin.com/in/milene-almeida-cordeiro-martins/">
