@@ -1,7 +1,7 @@
 ## Hi guys 👋 I'm Milene!
 
-_print("Engenheira de Inteligência Artificial e Dados")_ <p>
-Profissional da área de Inteligência Artificial com foco em desenvolvimento IA Generativa.
+_print("Engenheira de Inteligência Artificial")_ <p>
+Profissional da área de Inteligência Artificial com foco em desenvolvimento de GenAI.
 
 #
 
