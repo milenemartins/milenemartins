@@ -1,7 +1,7 @@
 ## Hi guys 👋 I'm Milene!
 
 _print("Engenheira de Inteligência Artificial")_ <p>
-Profissional da área de Inteligência Artificial com foco em desenvolvimento de GenAI.
+Profissional da área de Inteligência Artificial e Machine Learning.
 
 #
 
@@ -10,10 +10,7 @@ Profissional da área de Inteligência Artificial com foco em desenvolvimento de
 - Ciência de Dados. <p>
 - Engenharia de Dados. <p>
 - Engenharia de Prompt. <p>
-- Desenvolvimento GPT. <p>
-
-Voluntária nas comunidades **PyLadies [python]** e **AI Women [IA e Ciência de Dados]**.<p>
-Meu objetivo é promover a inclusão de gênero e criar um ambiente mais acolhedor para mulheres na área de tecnologia.
+- Desenvolvimento LLM. <p>
 
  # 
  
