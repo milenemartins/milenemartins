@@ -6,11 +6,7 @@ Profissional da área de Inteligência Artificial e Machine Learning.
 #
 
 **Atualmente, estou adquirindo experiências e conhecimentos nas áreas:** <p>
-- Inteligência Artificial. <p>
-- Ciência de Dados. <p>
-- Engenharia de Dados. <p>
-- Engenharia de Prompt. <p>
-- Desenvolvimento LLM. <p>
+- Inteligência Artificial | Ciência de Dados | Engenharia de Prompt | Desenvolvimento LLM. <p>
 
  # 
  
