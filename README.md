@@ -34,10 +34,9 @@ Profissional da área de Inteligência Artificial e Machine Learning.
 <a href="mailto:milene_martins@outlook.com">
   <img alt="Outlook" src="https://img.shields.io/badge/-milene_martins@outlook.com-000000?style=flat-square&logo=microsoft-outlook&logoColor=white">
 <a href="https://www.instagram.com/techmi.martins/">
-  <img alt="Instagram" src="https://img.shields.io/badge/-mimartins.ia-000000?style=flat-square&logo=instagram&logoColor=white">
+  <img alt="Instagram" src="https://img.shields.io/badge/-mi.martins.ia-000000?style=flat-square&logo=instagram&logoColor=white">
 <a href="https://www.linkedin.com/in/milene-almeida-cordeiro-martins/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Milene Martins-000000?style=flat-square&logo=linkedin&logoColor=white">
 </a> <p>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenemartins&layout=compact&theme=dark)
 <!--![Milene GitHub stats](https://github-readme-stats.vercel.app/api?username=milenemartins&rank_icon=github&theme=dark)-->
